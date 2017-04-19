@@ -1,4 +1,4 @@
-# Ressources for Toot Café
+# Resources for Toot Café
 
 ## Credits
 
